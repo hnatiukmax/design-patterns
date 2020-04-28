@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374acb69-aa39-4717-8f59-6d580b7c8fc2" name="Default Changelist" comment="" />
+    <list default="true" id="374acb69-aa39-4717-8f59-6d580b7c8fc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/strategy/Context.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/strategy/media/resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/strategy/strategy/BicycleNavigatorStrategy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/strategy/strategy/CarNavigatorStrategy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/strategy/strategy/NavigatorStrategy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/mediator/resources" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/mediator/media/resources" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +20,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aq79RONolJqpRiu4g2e1N6OVQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -25,6 +39,10 @@
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="behavioral.mediator.mediator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maxim Hnatiuk\design-patterns\src\behavioral\strategy\media" />
+      <recent name="C:\Users\Maxim Hnatiuk\design-patterns\src\behavioral\mediator\media" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -51,5 +69,18 @@
       <updated>1587451118605</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

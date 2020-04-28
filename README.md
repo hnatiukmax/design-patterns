@@ -8,3 +8,4 @@ Design Patterns on Kotlin
 * Structural
 * Behaviroal
   * Mediator
+  * Strategy
