@@ -27,7 +27,7 @@ public class ThreadSafeSingleton {
         return instance;
     }
 
-    public static synchronized ThreadSafeSingleton getInstanceGoodPerformance(String value) {
+    public static ThreadSafeSingleton getInstanceGoodPerformance(String value) {
         if (instance == null) {
             synchronized (ThreadSafeSingleton.class) {
                 if (instance == null) {
