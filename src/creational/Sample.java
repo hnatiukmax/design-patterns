@@ -1,9 +1,9 @@
 package creational;
 
-import creational.abstractfactory.carcomponents.engine.Engine;
-import creational.abstractfactory.carcomponents.factory.CarComponentFactory;
-import creational.abstractfactory.carcomponents.factory.HondaCarComponentFactory;
-import creational.abstractfactory.carcomponents.transmission.Transmission;
+import creational.abstractfactory.engine.Engine;
+import creational.abstractfactory.factory.CarComponentFactory;
+import creational.abstractfactory.factory.HondaCarComponentFactory;
+import creational.abstractfactory.transmission.Transmission;
 import creational.builder.Book;
 import creational.builder.Genre;
 import creational.builder.Year;

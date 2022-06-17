@@ -1,4 +1,4 @@
-package creational.abstractfactory.carcomponents.transmission;
+package creational.abstractfactory.transmission;
 
 public class HondaMechanicalTransmission implements Transmission {
 
